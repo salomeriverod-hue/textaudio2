@@ -7,9 +7,9 @@ from gtts import gTTS
 from PIL import Image
 import base64
 
-st.title("Conversión de Texto a Audio")
+st.title("Fábulas infantiles")
 image = Image.open('ricitos de oro.jpg')
-st.image(image, width=350)
+st.image(image, width=1000)
 with st.sidebar:
     st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
 
