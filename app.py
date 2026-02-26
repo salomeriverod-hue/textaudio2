@@ -52,9 +52,7 @@ Y Osito dijo:
 
 —¡Alguien está durmiendo en mi cama! —y se puso a llorar desconsoladamente.
 
-El llanto de Osito despertó a Ricitos de Oro, que muy asustada saltó de la cama y corrió escaleras abajo hasta llegar al bosque para jamás regresar a la casa de los osos.'
-        
-        )
+El llanto de Osito despertó a Ricitos de Oro, que muy asustada saltó de la cama y corrió escaleras abajo hasta llegar al bosque para jamás regresar a la casa de los osos.')
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
